@@ -1,0 +1,17 @@
+Package: psplyr
+Title: A Grammar of Data Manipulation for Phyloseq Objects
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Michael",
+           family = "McLaren",
+           role = c("aut", "cre"),
+           email = "m.mclaren42@gmail.com",
+           comment = c(ORCID = "0000-0003-1575-473X"))
+Description: This package extends the grammar of data manipulation developed in
+    the dplyr package, along with related tools from the tidyverse, to work
+    with microbiome-data container objects from the Phyloseq package.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
